@@ -54,3 +54,6 @@ https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning
 
 19- definition of disentangled representation learning, deepai article
 https://deepai.org/machine-learning-glossary-and-terms/disentangled-representation-learning
+
+20- How much MFCC coefficient we need, researchgate topic
+https://www.researchgate.net/post/Why_we_take_only_12-13_MFCC_coefficients_in_feature_extraction
