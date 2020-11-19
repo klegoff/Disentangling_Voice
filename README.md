@@ -1,2 +1,3 @@
-# Projet_digitale
-Demelage de représentation (NN) de données de voix 
+# Disantangling of vocal data
+We aim at discovering directions in an autoencodeur's latent space, that have concrete meaning.
+We use the dataset from Mozilla's Common Voice project (https://commonvoice.mozilla.org), that is a reliable source of vocal data and provide some labeling.
