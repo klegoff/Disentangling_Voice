@@ -1,0 +1,19 @@
+Classif linéaire pour mod vs mod
+
+assez représentatif de ce qui  est prononcé, mais voix modif
+
+demander à charly : etiquettage en phoneme
+
+Approche 1:
+1. Encoder spectro, cacluler vecteur moyen de accent = ..., age=..., gender=...
+
+2. Modif spectro avec la diff homme/femme 
+(ex : vérifier que c'est cohérent)
++ eps * vecteur diff entre modalité
+=> check spectrogramme + signal reconstruit
+
+
+Approche 2:
+clf linéaire pour les encodages h/f
+(si ça marche pas, prendre avec autres critères fixés (spécialise) et approche 1)
+
