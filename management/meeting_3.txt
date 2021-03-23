@@ -1,0 +1,23 @@
+Charly => autoencodeurs appris sur des données étiquettées
+
+faire des stats dans l'espace latent
+
+encoder des sons + faire des variations dans des directions + décoder
+
+(Apprentissage autoencodeur + découverte des directions en même temps)
+
+*ajd : reproduire son à partir du spectrogramme (plus des MFCC)
+
+1. archi de charly => tourner + stats (pour translation)
+
+2. encodeur + decodeur = gan : on applique les techniques du papier
+
+3.Apprendre encodeur + décodeur
+
+*dataset : (40Go : données d'apprentissage)
+gros => travailler sur de morceaux de données
+
+un échantillon (~4Go)
+*machine de calcul du master ou hydra ?
+
+*aligneur de texte = synchronise le texte et l'audio
